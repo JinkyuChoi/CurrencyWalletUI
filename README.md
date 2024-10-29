@@ -1,6 +1,6 @@
-# toonflix
+# CurrencyWalletUI
 
-A new Flutter project.
+Simple UI Project with Nomad Coder
 
 ## Getting Started
 
